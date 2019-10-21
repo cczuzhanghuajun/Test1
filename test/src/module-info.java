@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author zhanghuajun
+ *
+ */
+module test {
+}
